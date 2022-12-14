@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32802.462
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZH3_forms", "ZH3_forms\ZH3_forms.csproj", "{C345B707-4783-4FB0-8091-2DC6DE99F95A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZH3_ASP", "..\ZH3_ASP\ZH3_ASP\ZH3_ASP.csproj", "{1403CC6A-8D07-4EA2-9416-BAEEAA259DC0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZH3_ASP", "ZH3_ASP\ZH3_ASP.csproj", "{B2657365-C45C-4245-8B76-C5C6CF13A02A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{C345B707-4783-4FB0-8091-2DC6DE99F95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C345B707-4783-4FB0-8091-2DC6DE99F95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C345B707-4783-4FB0-8091-2DC6DE99F95A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1403CC6A-8D07-4EA2-9416-BAEEAA259DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1403CC6A-8D07-4EA2-9416-BAEEAA259DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1403CC6A-8D07-4EA2-9416-BAEEAA259DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1403CC6A-8D07-4EA2-9416-BAEEAA259DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2657365-C45C-4245-8B76-C5C6CF13A02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2657365-C45C-4245-8B76-C5C6CF13A02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2657365-C45C-4245-8B76-C5C6CF13A02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2657365-C45C-4245-8B76-C5C6CF13A02A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
